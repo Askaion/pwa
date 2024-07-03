@@ -1,0 +1,24 @@
+{ 
+  "data" :[
+    {"id":1,"hewan":"Bettongia penicillata","color":"Indigo"},
+    {"id":2,"hewan":"Papio cynocephalus","color":"Green"},
+    {"id":3,"hewan":"Phalaropus lobatus","color":"Indigo"},
+    {"id":4,"hewan":"Canis mesomelas","color":"Pink"},
+    {"id":5,"hewan":"Phalacrocorax niger","color":"Khaki"},
+    {"id":6,"hewan":"Libellula quadrimaculata","color":"Turquoise"},
+    {"id":7,"hewan":"Felis silvestris lybica","color":"Green"},
+    {"id":8,"hewan":"Uraeginthus angolensis","color":"Turquoise"},
+    {"id":9,"hewan":"Merops nubicus","color":"Violet"},
+    {"id":10,"hewan":"Spheniscus mendiculus","color":"Violet"},
+    {"id":11,"hewan":"Vanellus chilensis","color":"Yellow"},
+    {"id":12,"hewan":"Suricata suricatta","color":"Red"},
+    {"id":13,"hewan":"Macaca radiata","color":"Violet"},
+    {"id":14,"hewan":"Castor fiber","color":"Red"},
+    {"id":15,"hewan":"Paraxerus cepapi","color":"Puce"},
+    {"id":16,"hewan":"Coluber constrictor","color":"Purple"},
+    {"id":17,"hewan":"Coluber constrictor","color":"Khaki"},
+    {"id":18,"hewan":"Porphyrio porphyrio","color":"Indigo"},
+    {"id":19,"hewan":"Manouria emys","color":"Khaki"},
+    {"id":20,"hewan":"Heloderma horridum","color":"Violet"}
+  ]
+}
