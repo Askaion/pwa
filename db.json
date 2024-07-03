@@ -1,0 +1,84 @@
+{
+product:[
+    {
+      "id": 1,
+      "product_name": "Browning Caramel Glace",
+      "color": "Mauv"
+    }, {
+      "id": 2,
+      "product_name": "Creme De Menth - White",
+      "color": "Teal"
+    }, {
+      "id": 3,
+      "product_name": "Soup Campbells Beef With Veg",
+      "color": "Crimson"
+    }, {
+      "id": 4,
+      "product_name": "Wine - Pinot Grigio Collavini",
+      "color": "Indigo"
+    }, {
+      "id": 5,
+      "product_name": "Cookie - Oreo 100x2",
+      "color": "Green"
+    }, {
+      "id": 6,
+      "product_name": "Oxtail - Cut",
+      "color": "Maroon"
+    }, {
+      "id": 7,
+      "product_name": "Lamb Shoulder Boneless Nz",
+      "color": "Red"
+    }, {
+      "id": 8,
+      "product_name": "Flower - Potmums",
+      "color": "Yellow"
+    }, {
+      "id": 9,
+      "product_name": "Jicama",
+      "color": "Goldenrod"
+    }, {
+      "id": 10,
+      "product_name": "Bread - Triangle White",
+      "color": "Crimson"
+    }, {
+      "id": 11,
+      "product_name": "Veal - Inside Round / Top, Lean",
+      "color": "Orange"
+    }, {
+      "id": 12,
+      "product_name": "Trout - Rainbow, Fresh",
+      "color": "Goldenrod"
+    }, {
+      "id": 13,
+      "product_name": "Wanton Wrap",
+      "color": "Maroon"
+    }, {
+      "id": 14,
+      "product_name": "Swiss Chard",
+      "color": "Khaki"
+    }, {
+      "id": 15,
+      "product_name": "Shiratamako - Rice Flour",
+      "color": "Pink"
+    }, {
+      "id": 16,
+      "product_name": "Lettuce - Curly Endive",
+      "color": "Crimson"
+    }, {
+      "id": 17,
+      "product_name": "Shiratamako - Rice Flour",
+      "color": "Orange"
+    }, {
+      "id": 18,
+      "product_name": "Nut - Almond, Blanched, Sliced",
+      "color": "Red"
+    }, {
+      "id": 19,
+      "product_name": "Grapes - Black",
+      "color": "Khaki"
+    }, {
+      "id": 20,
+      "product_name": "Beets - Golden",
+      "color": "Aquamarine"
+    }]
+}
